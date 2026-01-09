@@ -3,7 +3,7 @@
         'name' => 'laraditz/2c2p',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'd03bc2133326b1c1ed524b3c5f5e9353b1cb513e',
+        'reference' => '67c30a8a74b9a22a4e8a51039213ab86c900547a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -334,7 +334,7 @@
         'laraditz/2c2p' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'd03bc2133326b1c1ed524b3c5f5e9353b1cb513e',
+            'reference' => '67c30a8a74b9a22a4e8a51039213ab86c900547a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
